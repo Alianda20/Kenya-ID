@@ -13,7 +13,7 @@ DB_CONFIG = {
     'host': 'localhost',
     'user': 'root',  # Your MySQL username
     'password': '',  # Your MySQL password
-    'database': 'digital_id_system'
+    'database': 'dig_id'
 }
 
 def add_admin():

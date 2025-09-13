@@ -26,8 +26,8 @@ DB_CONFIG = {
 
 # M-Pesa configuration
 MPESA_CONFIG = {
-    'consumer_key': 'xFlasGrjVLDUQKqTxb6cjeCkBPKHtYQGp6R3SKEeAEZmMSNZ',
-    'consumer_secret': 'KCf3QHZLVJ1adOdNAEPElPGNdcZKlp0br3B7NlwBdR2kyBGx0AbxmSAh7KGRnFYc',
+    'consumer_key': '',
+    'consumer_secret': '',
     'business_shortcode': '174379',  # Test shortcode
     'passkey': 'bfb279f9aa9bdbcf158e97dd71a467cd2e0c893059b10f78e6b72ada1ed2c919',  # Test passkey
     'base_url': 'https://sandbox.safaricom.co.ke',  # Use production URL in production
